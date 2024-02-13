@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1rem = 16px;
+  
+}
+
+:root{
+
+     --size : 700;
+     --size2: 800;
+     --color1: #f15858;
+     --color2: #FEECE0;
+    }
